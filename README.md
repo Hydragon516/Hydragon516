@@ -3,7 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHydragon516&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">😄 About Me 😄</h3>
-<p align="center"> I am an undergraduate student of Electrical & Electronic Engineering, Yonsei University. </p>
 <p align="center"> My research interests are Computer Vision, Artificial Intelligence. </p> 
 
 <h3 align="center">👨🏻‍🎓 Experience 👨🏻‍🎓</h3>
