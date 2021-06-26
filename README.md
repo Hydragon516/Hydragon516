@@ -3,7 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHydragon516&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">💻 Personal Info 💻</h3>
-<center> [School of Electrical and Electronic Engineering at Yonsei University](https://ee.yonsei.ac.kr/ee/index.do) </center>
+<center> [School of Electrical and Electronic Engineering at Yonsei University] (https://ee.yonsei.ac.kr/ee/index.do) </center>
+<p align="center"> School of Electrical and Electronic Engineering at Yonsei University (https://ee.yonsei.ac.kr/ee/index.do) </p>
 <p align="center"> Image and Video Pattern Recognition Lab [2020~] </p>
 <p align="center"> Optical Imaging Systems Laboratoryy [2019] </p>
 <p align="center"> SBTM - Robot club in Yonsei University [2018~2020] </p>
