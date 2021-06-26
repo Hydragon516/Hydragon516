@@ -20,6 +20,5 @@
     <img src="https://img.shields.io/badge/MATLAB-11B48A?style=flat-square&logo=MATLAB%2B%2B&logoColor=white"/>
 </p>
 
-<p align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydragon516&show_icons=true&theme=tokyonight)
-</p>
+
+<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydragon516&show_icons=true&theme=tokyonight) <\center>
